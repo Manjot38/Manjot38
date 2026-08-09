@@ -113,7 +113,7 @@ Decision Support Systems
 
 <p align="center">
 
-<a href="linkedin.com/in/manjot-kaur-33b311287">
+<a href="https://www.linkedin.com/in/manjot-kaur-33b311287/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
