@@ -73,79 +73,14 @@ Currently exploring the intersection of **Machine Learning, Data Science, GIS, a
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌧️ Punjab Rainfall Monitoring Portal
-
-A web-based rainfall monitoring and analysis portal developed for Punjab rainfall data.
-
-**Highlights:**
-
-- 📍 Location-based rainfall analysis
-- 🗺️ GIS and geospatial visualization
-- 🌧️ Rainfall statistics and trends
-- 📊 Interactive charts
-- 🛰️ Google Earth Engine integration
-- 🗃️ Raster and geospatial data processing
-- 🌐 Flask-based web application
-
-**Technologies:** Python • Flask • Google Earth Engine • GeoPandas • Rasterio • JavaScript • HTML • CSS
-
-🔗 [View Project Repository](https://github.com/Manjot38/punjab-rainfall-monitoring.git)
-
----
-
-## 🚨 Disaster Relief Aid Prediction System
-
-A machine-learning-based decision-support system designed to estimate disaster relief requirements.
-
-**Highlights:**
-
-- 🤖 Machine learning prediction
-- 📦 Aid quantity prediction
-- 🏷️ Aid type classification
-- 📊 Data preprocessing and feature engineering
-- 🌐 Flask web application
-- 💾 Pre-trained ML models
-
-**Technologies:** Python • Scikit-learn • Pandas • NumPy • Flask • Joblib
-
-🔗 [View Project Repository](https://github.com/Manjot38/disaster-relief-aid-prediction)
-
----
-
-## 🖼️ Dynamic Wallpaper Changer
-
-A Python and Streamlit application that automatically selects wallpapers according to **mood and time of day**.
-
-**Features:**
-
-- 😊 Mood-based wallpaper selection
-- 🕐 Time-based selection
-- 🔀 Random wallpaper selection
-- 🖥️ Automatic Windows wallpaper changing
-- 🌐 Streamlit interface
-
-**Technologies:** Python • Streamlit • Pillow • Windows API
-
-🔗 [View Project Repository](https://github.com/Manjot38/dynamic-wallpaper-changer)
-
----
-
-## ☀️ Smart Solar Rainwater Irrigation System
-
-A multidisciplinary project combining **IoT, solar energy, irrigation automation, and machine learning**.
-
-**Key components:**
-
-- 💧 Rainwater collection
-- ☀️ Solar-powered pumping
-- 🌱 Automatic irrigation
-- 📡 Water-level monitoring
-- 🤖 ML-based irrigation prediction
-- 🌾 Crop-specific irrigation management
-
----
+| Project | Description | Technologies | Repository |
+|---|---|---|---|
+| 🌧️ **Punjab Rainfall Monitoring Portal** | Web-based portal for rainfall monitoring, location-based analysis, GIS visualization, and rainfall statistics for Punjab. | Python • Flask • GEE • GeoPandas • Rasterio • JavaScript | 🔗 [View Project Repository](https://github.com/Manjot38/punjab-rainfall-monitoring.git) |
+| 🚨 **Disaster Relief Aid Prediction** | ML-based decision-support system for predicting relief aid quantity and classifying aid type from disaster-related data. | Python • Scikit-learn • Pandas • Flask • Joblib | 🔗 [View Project Repository](https://github.com/Manjot38/disaster-relief-aid-prediction) |
+| 🖼️ **Dynamic Wallpaper Changer** | Personalized desktop application that selects wallpapers according to mood and time of day. | Python • Streamlit • Pillow • Windows API | 🔗 [View Project Repository](https://github.com/Manjot38/dynamic-wallpaper-changer) |
+| ☀️ **Smart Solar Rainwater Irrigation System** | Smart irrigation system combining rainwater harvesting, solar pumping, automatic irrigation, and ML-based irrigation prediction. | Python • ML • IoT • Solar Energy | — |
 
 # 📚 Areas of Interest
 
