@@ -96,24 +96,6 @@ Artificial Intelligence
 Research & Development
 Decision Support Systems
 ```
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjot38&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Manjot38&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manjot38&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
@@ -131,7 +113,7 @@ Decision Support Systems
 
 <p align="center">
 
-<a href="www.linkedin.com/in/manjot-kaur-33b311287">
+<a href="linkedin.com/in/manjot-kaur-33b311287">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
